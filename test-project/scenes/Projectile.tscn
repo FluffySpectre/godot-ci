@@ -1,7 +1,7 @@
 [gd_scene load_steps=7 format=3 uid="uid://dwr8aulhrbt85"]
 
-[ext_resource type="Script" path="res://scripts/Projectile.gd" id="1"]
-[ext_resource type="Script" path="res://scripts/ColoredEntity.gd" id="2"]
+[ext_resource type="Script" uid="uid://wgw7htiectfc" path="res://scripts/Projectile.gd" id="1"]
+[ext_resource type="Script" uid="uid://dnwxeqt3330r0" path="res://scripts/ColoredEntity.gd" id="2"]
 [ext_resource type="Texture2D" uid="uid://my3jd38hyc7k" path="res://resources/img/missile-placeholder.png" id="3"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_13bxk"]
